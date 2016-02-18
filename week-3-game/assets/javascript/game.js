@@ -1,6 +1,6 @@
 // CREATING VARIABLES FOR THE GAME
 var word = ["bodybuilding","Math","Javascript","Blue","Rutgers","Volkswagen"];
-// ACCESES THE WORDS IN THE ARRAY
+// ACCESSES THE WORDS IN THE ARRAY
 var word = word[Math.floor(Math.random() * word.length)];
 // CONVERTS ALL WORDS IN THE WORD ARRAY TO UPPER CASE 
 	word = word.toUpperCase();
